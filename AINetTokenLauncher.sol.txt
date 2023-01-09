@@ -552,8 +552,8 @@ function setSellFees(
 contract AINetLauncher is Ownable {
 
 
-    address public FeeReceiver = 0x3F506eC2Be3FAF2c1478FFC9acEF428f27a39773;
-    uint256 public creationFee = 0.15 ether;
+    address public FeeReceiver = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx;
+    uint256 public creationFee = xxx ether;
     mapping(address=>address[]) public tokensOf;
 
 
